@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/YOUR_GITHUB_USER/YOUR_REPO/releases/download/v1.0.0/SMOKIN_FNF_BG_Tool_Setup_x64.exe",
+  "notes": [
+    "Replace YOUR_GITHUB_USER/YOUR_REPO and the path with your real GitHub Release asset URL.",
+    "In the app: Settings → paste the raw URL of this file as Update manifest URL → Save.",
+    "When you ship a new build: bump \"version\" here above the old APP_VERSION, point \"url\" at the new installer, and bump APP_VERSION in ui_constants.py in the source you build from."
+  ]
+}
