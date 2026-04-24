@@ -1,7 +1,9 @@
 {
-  "version": "1.0.0",
-  "url": "https://www.dropbox.com/scl/fi/2suqj5rpf71by62hkpu2z/SMOKIN_FNF_BG_Tool_Setup_x64.exe",
+  "version": "1.1.0",
+  "url": "https://www.dropbox.com/scl/fi/2suqj5rpf71by62hkpu2z/SMOKIN_FNF_BG_Tool_Setup_x64.exe?rlkey=ylaknqoezsrolqi4m1ttc3zvt&st=621b8073&dl=0",
   "notes": [
-    "No updates are available at this moment."
+    "Added tracking feature.",
+    "Changed dialog boxes and reworked some UI features.",
+    "Added an easter egg..."
   ]
 }
